@@ -1,0 +1,9 @@
+<!-- 小程序收藏组件，更多高级用法请参考文档：https://docs.alipay.com/mini/component/component-favorite -->
+<view class="page" hidden="{{flag}}">
+  <view class="page-section">
+    <scroll-view>
+      <button size="default" type="primary" onTap="test">click</button>
+    </scroll-view>
+  </view>
+</view>
+ 
